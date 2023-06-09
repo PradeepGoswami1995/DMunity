@@ -52,6 +52,9 @@ login(driver, "admin@dmunity.com", "123456")
 
 # Close the browser
 driver.quit()
+time.sleep(10)
+
+# Test 9 June
 
 
 
